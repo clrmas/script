@@ -1,0 +1,197 @@
+winver---------??Windows版本 
+wmimgmt.msc----打?windows管理体系??(WMI) 
+wupdmgr--------windows更新程序 
+wscript--------windows脚本宿主?置 
+write----------写字板 
+winmsd---------系?信息 
+wiaacmgr-------?描?和照相机向? 
+winchat--------XP自?局域网聊天 
+
+mem.exe--------?示内存使用情况 
+Msconfig.exe---系?配置?用程序 
+mplayer2-------?易widnows media player 
+mspaint--------画?板 
+mstsc----------?程?面?接 
+mplayer2-------媒体播放机 
+magnify--------放大??用程序 
+mmc------------打?控制台 
+mobsync--------同?命令 
+
+dxdiag---------??DirectX信息 
+drwtsn32------ 系?医生 
+devmgmt.msc--- ??管理器 
+dfrg.msc-------磁?碎片整理程序 
+diskmgmt.msc---磁?管理?用程序 
+dcomcnfg-------打?系??件服? 
+ddeshare-------打?DDE共享?置 
+dvdplay--------DVD播放器 
+
+net stop messenger-----停止信使服? 
+net start messenger----?始信使服? 
+notepad--------打??事本 
+nslookup-------网?管理的工具向? 
+ntbackup-------系???和?原 
+narrator-------屏幕“?述人” 
+ntmsmgr.msc----移?存?管理器 
+ntmsoprq.msc---移?存?管理?*作?求 
+netstat -an----(TC)命令??接口 
+
+syncapp--------?建一个公文包 
+sysedit--------系?配置??器 
+sigverif-------文件?名??程序 
+sndrec32-------?音机 
+shrpubw--------?建共享文件? 
+secpol.msc-----本地安全策略 
+syskey---------系?加密，一旦加密就不能解?，保?windows xp系?的双重密? 
+services.msc---本地服??置 
+Sndvol32-------音量控制程序 
+sfc.exe--------系?文件??器 
+sfc /scannow---windows文件保? 
+
+tsshutdn-------60秒倒???机命令 
+tourstart------xp?介（安装完成后出?的漫游xp程序） 
+taskmgr--------任?管理器 
+
+eventvwr-------事件?看器 
+eudcedit-------造字程序 
+explorer-------打??源管理器 
+
+packager-------?象包装程序 
+perfmon.msc----?算机性能??程序 
+progman--------程序管理器 
+
+regedit.exe----注册表 
+rsop.msc-------?策略?果集 
+regedt32-------注册表??器 
+rononce -p ----15秒?机 
+regsvr32 /u *.dll----停止dll文件?行 
+regsvr32 /u zipfldr.dll------取消ZIP支持 
+
+cmd.exe--------CMD命令提示符 
+chkdsk.exe-----Chkdsk磁??? 
+certmgr.msc----??管理?用程序 
+calc-----------???算器 
+charmap--------??字符映射表 
+cliconfg-------SQL SERVER 客?端网??用程序 
+Clipbrd--------剪?板?看器 
+conf-----------??netmeeting 
+compmgmt.msc---?算机管理 
+cleanmgr-------好?西整理 
+ciadv.msc------索引服?程序 
+
+osk------------打?屏幕?? 
+odbcad32-------ODBC数据源管理器 
+oobe/msoobe /a----??XP是否激活 
+lusrmgr.msc----本机用?和? 
+logoff---------注?命令 
+
+iexpress-------木???工具，系?自? 
+
+Nslookup-------IP地址??器 
+
+fsmgmt.msc-----共享文件?管理器 
+
+utilman--------?助工具管理器 
+
+gpedit.msc-----?策略 
+xp下?行命令大全. 
+
+$Systemroot$Documents and Settingsusername 目?下 
+
+appwiz.cpl------------添加?除程序 
+
+control userpasswords2--------用????置 
+
+cleanmgr-------??整理 
+
+CMD--------------命令提示符可以当作是 Windows 的一个附件，Ping，Convert ?些不能在?形?境下 使用的功能要借助它来完成。 
+
+cmd------jview察看Java虚?机版本。 
+
+command.com------?用的?是系?内置的 NTVDM，一个 DOS虚?机。它完全是一个?似 Virtual PC 的 虚??境，和系?本身?系不大。当我?在命令提示符下?行 DOS 程序?，??上也 是自??移到 NTVDM虚?机下，和 CMD 本身没什??系。 
+
+calc-----------???算器 
+
+chkdsk.exe-----Chkdsk磁??? 
+
+compmgmt.msc---?算机管理 
+
+conf-----------?? netmeeting 
+
+control userpasswords2-----User Account ?限?置 
+
+devmgmt.msc--- ??管理器 
+
+diskmgmt.msc---磁?管理?用程序 
+
+dfrg.msc-------磁?碎片整理程序 
+
+drwtsn32------ 系?医生 
+
+dvdplay--------??Media Player 
+
+dxdiag-----------DirectX Diagnostic Tool 
+
+gpedit.msc-------?策略??器 
+
+gpupdate /target:computer /force ?制刷新?策略 
+
+eventvwr.exe-----事件?看器 
+
+explorer-------打??源管理器 
+
+logoff---------注?命令 
+
+lusrmgr.msc----本机用?和? 
+
+msinfo32---------系?信息 
+
+msconfig---------系?配置?用程序 
+
+net start (servicename)----???服? 
+
+net stop (servicename)-----停止?服? 
+
+notepad--------打??事本 
+
+nusrmgr.cpl-------同control userpasswords，打?用???控制面板 
+
+Nslookup-------IP地址??器 
+
+oobe/msoobe /a----??XP是否激活 
+
+perfmon.msc----?算机性能??程序 
+
+progman--------程序管理器 
+
+regedit----------注册表??器 
+
+regedt32-------注册表??器 
+
+regsvr32 /u *.dll----停止dll文件?行 
+
+route print------?看路由表 
+
+rononce -p ----15秒?机 
+
+rsop.msc-------?策略?果集 
+
+rundll32.exe rundll32.exe %Systemroot%System32shimgvw.dll,ImageView_Fullscreen ----??一个空白的Windows ?片和?真?看器 
+
+secpol.msc--------本地安全策略 
+
+services.msc---本地服??置 
+
+sfc /scannow-----??系?文件??器 
+
+sndrec32-------?音机 
+
+taskmgr-----任?管理器（?用于2000／xp／2003） 
+
+tsshutdn-------60秒倒???机命令 
+
+winchat--------XP自?局域网聊天 
+
+winmsd---------系?信息 
+
+winver-----?示About Windows 窗口
